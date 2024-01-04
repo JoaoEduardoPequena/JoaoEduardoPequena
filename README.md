@@ -4,7 +4,7 @@
 
 ![João Eduardo Pequena GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoEduardoPequena&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoEduardoPequena)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoEduardoPequena)](https://github.com/JoaoEduardoPequena)
 
 ## Tecnologias que eu utilizo
 
