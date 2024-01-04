@@ -1,4 +1,6 @@
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+
 <h2> <strong>Hello, I am João Eduardo Pequena </strong></strong></h6>
 <p align="center">I love sharing and solving big challenges using technology.. <br><br> From backend development using .Net technology to frontend development using Vue JS, I am passionate about sharing knowledge and discovering new things and using them to create high-quality solutions. Today.</p>&nbsp;
 
