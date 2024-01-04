@@ -3,3 +3,10 @@
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pequena-1a2ba1196/)
 
 ![João Eduardo Pequena GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoEduardoPequena&show_icons=true&theme=dracula)
+
+## Tecnologias que eu utilizo
+
+<div style="display: inline-block">
+   <img  align="center"  alt="html5"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  
+</div>
