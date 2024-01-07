@@ -1,5 +1,5 @@
 <h2> <strong>Hello, I am João Eduardo Pequena </strong></strong></h6>
-<p align="center">I love sharing and solving big challenges using technology.. <br><br> From backend development using .Net technology to frontend development using Vue JS, I am passionate about sharing knowledge and discovering new things and using them to create high-quality solutions. Today.</p>&nbsp;
+<p align="center">I love sharing and solving big challenges using technology.. <br><br> From backend development using .Net technology to frontend development using Vue JS, I am passionate about sharing knowledge and discovering new things and using them to create high-quality solutions.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <!--img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=JoaoEduardoPequena&theme=radical&mode=weekly" /--> 
