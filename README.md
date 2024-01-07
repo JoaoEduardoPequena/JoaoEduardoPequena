@@ -1,5 +1,8 @@
 <h2> <strong>Hello, I am João Eduardo Pequena </strong></strong></h6>
-<p align="center">I love sharing and solving big challenges using technology.. <br><br> From backend development using .Net, Net/Core, C#, SQL Server technology to frontend development using JavaScript, Vue JS and React J, I am passionate about sharing knowledge and discovering new things and using them to create high-quality solutions.</p>&nbsp;
+<p align="center">I love sharing and solving big challenges using technology.. <br><br> From backend development using .Net, Net/Core, C#, SQL Server technology to frontend development using JavaScript, Vue JS and React J, I also have some knowledge in development with event-driven architecture, development with RabbitMQ messaging technology.
+I'm passionate about sharing knowledge and discovering new things and using technology to create high-quality solutions.
+
+I currently have more than 5 years of experience working with software development in the most diverse programming languages ​​with a focus on .Net, always focusing on developing solutions focused on the customer experience. Right now, I'm looking for opportunities where I can use all my knowledge to develop the best solutions to optimize processes..</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <!--img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=JoaoEduardoPequena&theme=radical&mode=weekly" /--> 
