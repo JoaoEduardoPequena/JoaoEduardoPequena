@@ -1,6 +1,8 @@
 <h2> <strong>Hello, I am João Eduardo Pequena </strong></strong></h6>
-<p align="center">I love sharing and solving big challenges using technology.. <br><br> From backend development using .Net, Net/Core, C#, SQL Server technology to frontend development using JavaScript, Vue JS and React J, I also have some knowledge in development with event-driven architecture, development with RabbitMQ messaging technology.
-I'm passionate about sharing knowledge and discovering new things and using technology to create high-quality solutions.
+<p align="center">Full Stack Developer, specialized in .Net and Net/Core.
+Working professionally with C# since 2019, improving application performance and integrations and I have experience in development with .Net and Net/Core, creating APIs with ASP. NET Core WEB API, website and management applications with React JS and Vue JS, development with event-driven architecture, development with RabbitMQ messenger technology. Everything covered with xUnit testing.
+
+I am passionate about building successful products, experienced in simplifying processes to improve the customer experience and solving project problems efficiently.
  
 <div  align="center" style="margin-bottom:100px">
 <!--img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=JoaoEduardoPequena&theme=radical&mode=weekly" /--> 
