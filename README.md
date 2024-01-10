@@ -1,5 +1,5 @@
 <h2> <strong>Hello, I am João Eduardo Pequena </strong></strong></h6>
-<p align="center">
+<p align="justify">
 Full Stack Developer, specialized in .Net and Net/Core.
 Working professionally with C# since 2019, improving application performance and integrations and I have experience in development with .Net and Net/Core, creating APIs with ASP. NET Core WEB API, website and management applications with React JS and Vue JS, development with event-driven architecture, development with RabbitMQ messenger technology. Everything covered with xUnit testing.
 
