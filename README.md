@@ -4,8 +4,11 @@ Full Stack Developer, specialized in .Net and Net/Core.
 Working professionally with C# since 2019, improving application performance and integrations and I have experience in development with .Net and Net/Core, creating APIs with ASP. NET Core WEB API, website and management applications with React JS and Vue JS, development with event-driven architecture, development with RabbitMQ messenger technology. Everything covered with xUnit testing.
 
 Computer Engineer, I work as a Full Stack developer specializing in .Net and Net Core, with more than 5 years of experience in different application development sectors such as sales, health, finance, education, banking, insurance, customer relationship management (CRM) and Contact Center. Key technologies include .Net, Net Core, C#, API with ASP. NET Core, RabbitMQ, SQL Server, MongoDB, Redis, JavaScript, React JS and Vue JS. I currently work as a back-end programmer at Ucall, a company that offers communication and customer service solutions, such as call center and contact center services. 
+</p>
+<p align="justify">
 Notable results include leading a development team in creating a customer relationship management (CRM) platform, reducing the costs of paper-based operational processes by 20% and increasing customer management efficiency by 50% and leadership of a development team in the creation of event management software, increasing the volume of sales made by 80%. This application is being used nationally in Angola, by the company responsible for event management (filda, fairs) in Angola. 
 Development of an application for insurance sales called VPP integrated with proxypay payment getaway, increasing the volume of sales made by 85%.
+</p>
 
 
 I am passionate about building successful products, experienced in simplifying processes to improve the customer experience and solving project problems efficiently.
