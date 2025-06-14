@@ -89,7 +89,6 @@ Always focused on delivering **value**, **scalability**, and **performance**.
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
-
 &nbsp;
 &nbsp;
 
