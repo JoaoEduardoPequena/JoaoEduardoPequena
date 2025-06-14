@@ -1,20 +1,61 @@
-<h2> <strong>Hello, I am João Eduardo Pequena </strong></strong></h6>
-<p align="justify">
- 
-Computer Engineer, I work as a Full Stack developer specializing in .Net and Net Core, with more than 5 years of experience in different application development sectors such as sales, health, finance, education, banking, insurance, customer relationship management (CRM) and Contact Center. Key technologies include .Net, Net Core, C#, API with ASP. NET Core, RabbitMQ, SQL Server, MongoDB, Redis, JavaScript, React JS and Vue JS. I currently work as a back-end programmer at Ucall, a company that offers communication and customer service solutions, such as call center and contact center services. 
-</p>
+# 👨‍💻 João Pequena
 
-<p align="justify">
-Notable results include leading a development team in creating a customer relationship management (CRM) platform, reducing the costs of paper-based operational processes by 20% and increasing customer management efficiency by 50% and leadership of a development team in the creation of event management software, increasing the volume of sales made by 80%. This application is being used nationally in Angola, by the company responsible for event management (filda, fairs) in Angola. 
-Development of an application for insurance sales called VPP integrated with proxypay payment getaway, increasing the volume of sales made by 85%.
-</p>
+### Software Engineer | Full Stack Developer (.NET)
 
-I am passionate about building successful products, experienced in simplifying processes to improve the customer experience and solving project problems efficiently.
- 
-<div  align="center" style="margin-bottom:100px">
-<!--img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=JoaoEduardoPequena&theme=radical&mode=weekly" /--> 
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=JoaoEduardoPequena&show_icons=true&theme=radical&layout=compact" />
- </div>
+🎯 Passionate about building scalable and high-performance systems that deliver real value. With 6+ years of experience in software development, I specialize in .NET/.NET Core and modern JavaScript frameworks.
+
+---
+
+## 💼 About Me
+
+I have participated in strategic projects across sectors such as:
+
+- 🛒 Sales
+- 🏥 Healthcare
+- 💳 Finance & Banking
+- 🛡️ Insurance
+- 🎓 Education
+- 🧠 CRM
+- 📞 Contact Center
+
+Always working with a strong focus on scalability, maintainability, and delivering measurable results.
+
+---
+
+## 🚀 Achievements
+
+- 🔐 **+85%** in sales with VPP insurance system integrated with ProxyPay.
+- ✈️ **+90%** customer satisfaction after enhancing flight communication system (SMS, Email, WhatsApp, Voice).
+- 🏦 **+80%** satisfaction with continuous improvements in banking/insurance software.
+- 🧩 **-20%** in costs and **+50%** efficiency after leading CRM development.
+- 🎟️ **+80%** in event sales with national event management platform.
+- 🚍 **90%** process automation with DigiTransporte, boosting productivity.
+
+---
+
+## 🛠️ Tech Stack
+
+**Backend**  
+`.NET`, `.NET Core`, `C#`, `VB.NET`, `RESTful APIs`, `Microservices`, `RabbitMQ`
+
+**Databases**  
+`SQL Server`, `MongoDB`, `Redis`
+
+**Frontend**  
+`JavaScript`, `Vue.js`, `React.js`, `HTML5`, `CSS3`, `Bootstrap`
+
+**DevOps & Tools**  
+`Docker`, `CI/CD (GitHub Actions)`, `Visual Studio`, `VS Code`, `Git`, `GitHub`, `Bitbucket`
+
+**Others**  
+`Node.js`, `Express.js`, `Scrum`
+
+---
+
+## 📫 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/joao-pequena/)  
+- [Email](mailto:joao.pequena@example.com) 
  
  &nbsp;
  &nbsp;
