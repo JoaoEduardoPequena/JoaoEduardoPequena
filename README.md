@@ -1,49 +1,57 @@
-Software Engineer with 6 years of experience as a Full Stack Developer specializing in .NET and .NET Core. I have worked on high-impact projects across various sectors, including sales, healthcare, finance, banking, insurance, education, CRM, and Contact Center — always focused on delivering value, scalability, and performance.
+# 👨‍💻 Software Engineer | Full Stack Developer (.NET)
 
-Key Skills:
+Software Engineer with 6 years of experience as a Full Stack Developer specializing in .NET and .NET Core.  
+I have worked on high-impact projects across various sectors, including:
 
-Development of RESTful APIs
+🛒 Sales | 🏥 Healthcare | 💳 Finance & Banking | 🛡 Insurance | 🎓 Education | 🧠 CRM | ☎️ Contact Center
 
-Microservices architecture
+Always focused on delivering **value**, **scalability**, and **performance**.
 
-Messaging integration with RabbitMQ
+---
 
-Relational and NoSQL databases
+## 🧠 Key Skills
 
-Solid front-end development with modern JavaScript frameworks (Vue.js, React.js)
+- ✅ Development of RESTful APIs  
+- ✅ Microservices architecture  
+- ✅ Messaging integration with RabbitMQ  
+- ✅ Relational and NoSQL databases  
+- ✅ Solid front-end development using Vue.js and React.js  
 
-📈 Achievements & Impact:
+---
 
-📌 Increased sales by +85% through the development of the VPP insurance system integrated with ProxyPay payment gateway.
+## 📈 Achievements & Impact
 
-✈️ Improved flight communication systems by optimizing SMS, email, WhatsApp, and voice call notifications, resulting in +90% customer satisfaction.
+- 📌 **+85% sales** by developing the VPP insurance system integrated with ProxyPay  
+- ✈️ **+90% customer satisfaction** after optimizing flight communication (SMS, email, WhatsApp, calls)  
+- 🏦 **+80% satisfaction** through continuous improvements in banking and insurance software  
+- 🧩 **-20% operational costs** and **+50% efficiency** by leading corporate CRM development  
+- 🎟️ **+80% event sales** by leading a national event management platform used by Angola’s top event organizer  
+- 🚍 **90% automation** of manual processes with DigiTransporte, boosting productivity  
 
-🏦 Achieved +80% satisfaction through continuous improvements in banking and insurance software systems.
+---
 
-🧩 Reduced operational costs by -20% and increased customer management efficiency by +50% by leading the development of a corporate CRM system.
+## 🛠️ Technical Stack
 
-🎟️ Boosted event sales by +80% by leading the development of a national event management platform used by the leading event organizer in Angola.
+### 💻 Backend  
+`.NET`, `.NET Core`, `C#`, `VB.NET`, `RESTful APIs`, `Microservices`, `RabbitMQ`
 
-🚍 Automated up to 90% of manual processes with DigiTransporte software, significantly improving client productivity.
+### 🗄️ Databases  
+`SQL Server`, `MongoDB`, `Redis`
 
-🛠 Technical Stack:
+### 🎨 Frontend  
+`JavaScript`, `Vue.js`, `React.js`, `HTML5`, `CSS3`, `Bootstrap`
 
-Backend: .NET, .NET Core, C#, VB.NET, RESTful APIs, Microservices, RabbitMQ
+### ⚙️ DevOps  
+`Docker`, `CI/CD with GitHub Actions`
 
-Databases: SQL Server, MongoDB, Redis
+### 🧰 Tools  
+`Visual Studio`, `VS Code`, `Git`, `GitHub`, `Bitbucket`
 
-Frontend: JavaScript, Vue.js, React.js, HTML5, CSS3, Bootstrap
-
-DevOps: Docker, CI/CD with GitHub Actions
-
-Tools: Visual Studio, VS Code, Git, GitHub, Bitbucket
-
-Others: Node.js, Express.js, Scrum
+### 🧩 Others  
+`Node.js`, `Express.js`, `Scrum`
  
  &nbsp;
  &nbsp;
-
-
 
 ## My Skills
 
