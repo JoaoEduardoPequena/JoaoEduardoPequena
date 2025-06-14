@@ -1,4 +1,4 @@
-# 👨‍💻 Software Engineer | Full Stack Developer (.NET)
+# 👨‍💻 Software Engineer | Full Stack Developer (.NET/Net Core)
 
 Software Engineer with 6 years of experience as a Full Stack Developer specializing in .NET and .NET Core.  
 I have worked on high-impact projects across various sectors, including:
@@ -94,7 +94,6 @@ Always focused on delivering **value**, **scalability**, and **performance**.
 &nbsp;
 
 ## Contacts:
-- [Email](joaoeduardopequeno@gmail.com)
   [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaoeduardopequena/?trk=eml-email_job_alert_digest_01-header-0-profile_glimmer)
  [![MEDIUM](https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@joaoeduardopequeno)
 
