@@ -1,61 +1,44 @@
-# 👨‍💻 João Pequena
+Software Engineer with 6 years of experience as a Full Stack Developer specializing in .NET and .NET Core. I have worked on high-impact projects across various sectors, including sales, healthcare, finance, banking, insurance, education, CRM, and Contact Center — always focused on delivering value, scalability, and performance.
 
-### Software Engineer | Full Stack Developer (.NET)
+Key Skills:
 
-🎯 Passionate about building scalable and high-performance systems that deliver real value. With 6+ years of experience in software development, I specialize in .NET/.NET Core and modern JavaScript frameworks.
+Development of RESTful APIs
 
----
+Microservices architecture
 
-## 💼 About Me
+Messaging integration with RabbitMQ
 
-I have participated in strategic projects across sectors such as:
+Relational and NoSQL databases
 
-- 🛒 Sales
-- 🏥 Healthcare
-- 💳 Finance & Banking
-- 🛡️ Insurance
-- 🎓 Education
-- 🧠 CRM
-- 📞 Contact Center
+Solid front-end development with modern JavaScript frameworks (Vue.js, React.js)
 
-Always working with a strong focus on scalability, maintainability, and delivering measurable results.
+📈 Achievements & Impact:
 
----
+📌 Increased sales by +85% through the development of the VPP insurance system integrated with ProxyPay payment gateway.
 
-## 🚀 Achievements
+✈️ Improved flight communication systems by optimizing SMS, email, WhatsApp, and voice call notifications, resulting in +90% customer satisfaction.
 
-- 🔐 **+85%** in sales with VPP insurance system integrated with ProxyPay.
-- ✈️ **+90%** customer satisfaction after enhancing flight communication system (SMS, Email, WhatsApp, Voice).
-- 🏦 **+80%** satisfaction with continuous improvements in banking/insurance software.
-- 🧩 **-20%** in costs and **+50%** efficiency after leading CRM development.
-- 🎟️ **+80%** in event sales with national event management platform.
-- 🚍 **90%** process automation with DigiTransporte, boosting productivity.
+🏦 Achieved +80% satisfaction through continuous improvements in banking and insurance software systems.
 
----
+🧩 Reduced operational costs by -20% and increased customer management efficiency by +50% by leading the development of a corporate CRM system.
 
-## 🛠️ Tech Stack
+🎟️ Boosted event sales by +80% by leading the development of a national event management platform used by the leading event organizer in Angola.
 
-**Backend**  
-`.NET`, `.NET Core`, `C#`, `VB.NET`, `RESTful APIs`, `Microservices`, `RabbitMQ`
+🚍 Automated up to 90% of manual processes with DigiTransporte software, significantly improving client productivity.
 
-**Databases**  
-`SQL Server`, `MongoDB`, `Redis`
+🛠 Technical Stack:
 
-**Frontend**  
-`JavaScript`, `Vue.js`, `React.js`, `HTML5`, `CSS3`, `Bootstrap`
+Backend: .NET, .NET Core, C#, VB.NET, RESTful APIs, Microservices, RabbitMQ
 
-**DevOps & Tools**  
-`Docker`, `CI/CD (GitHub Actions)`, `Visual Studio`, `VS Code`, `Git`, `GitHub`, `Bitbucket`
+Databases: SQL Server, MongoDB, Redis
 
-**Others**  
-`Node.js`, `Express.js`, `Scrum`
+Frontend: JavaScript, Vue.js, React.js, HTML5, CSS3, Bootstrap
 
----
+DevOps: Docker, CI/CD with GitHub Actions
 
-## 📫 Let's Connect
+Tools: Visual Studio, VS Code, Git, GitHub, Bitbucket
 
-- [LinkedIn](https://www.linkedin.com/in/joao-pequena/)  
-- [Email](mailto:joao.pequena@example.com) 
+Others: Node.js, Express.js, Scrum
  
  &nbsp;
  &nbsp;
